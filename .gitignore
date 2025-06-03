@@ -1,0 +1,13 @@
+# 환경
+*venv*
+.venv/
+*.pyc
+__pycache__/
+
+# 기타 제외할 파일/디렉토리
+.DS_Store
+.env
+quant_trading.db
+*.bak
+test_*
+tmp.py
